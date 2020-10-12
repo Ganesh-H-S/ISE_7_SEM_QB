@@ -3,3 +3,4 @@
 # 17IS72 : Software Architecture and Design Pattern
 # 17CS73 : Machine Learning
 # 17CS742 : Cloud Computing and its Application
+# 17CS754 : Storage Area Networks
